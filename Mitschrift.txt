@@ -1,0 +1,1 @@
+git clone --> bestehendes repository von GutHub aus einen lokalen PC holen
