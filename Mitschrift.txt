@@ -1,1 +1,2 @@
 git clone --> bestehendes repository von GutHub aus einen lokalen PC holen
+git push --> Änderungen auf GitHub hochladen
